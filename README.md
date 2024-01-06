@@ -17,7 +17,7 @@ To view the website, open the `index.html` file in a web browser.
 
 ## License
 
-This project is licensed under the [Jeebak Basak Bsc Data Science License](LICENSE).
+This project is licensed under the [Jeebak](LICENSE).
 
 ## Author
 
